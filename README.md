@@ -6,5 +6,4 @@ Important links for documentation, [DLIB](http://dlib.net/) and [OpenCV](https:/
 
 ## Contents
 
-**Main:** Main code repository </br>
-**Doc:** Documentation repository
+**Main:** Main code repository
